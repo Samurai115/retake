@@ -1,0 +1,8 @@
+E:\projects\SheduleTrain-master\SheduleTrain\bin\Debug\SheduleTrain.exe.config
+E:\projects\SheduleTrain-master\SheduleTrain\bin\Debug\SheduleTrain.exe
+E:\projects\SheduleTrain-master\SheduleTrain\bin\Debug\SheduleTrain.pdb
+E:\projects\SheduleTrain-master\SheduleTrain\obj\Debug\SheduleTrain.csproj.AssemblyReference.cache
+E:\projects\SheduleTrain-master\SheduleTrain\obj\Debug\SheduleTrain.csproj.SuggestedBindingRedirects.cache
+E:\projects\SheduleTrain-master\SheduleTrain\obj\Debug\SheduleTrain.csproj.CoreCompileInputs.cache
+E:\projects\SheduleTrain-master\SheduleTrain\obj\Debug\SheduleTrain.exe
+E:\projects\SheduleTrain-master\SheduleTrain\obj\Debug\SheduleTrain.pdb
